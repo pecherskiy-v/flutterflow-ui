@@ -72,7 +72,7 @@ dependencies:
   csslib: '>=0.17.0 <1.0.0'
   flutter_layout_grid: '>=1.0.1 <2.0.0'
   webview_flutter: '>=2.0.4 <3.0.0'
-  chewie_audio: '>=1.2.0 <2.0.0'
+#   chewie_audio: '>=1.2.0 <2.0.0'
   flutter_svg: '>=0.22.0 <1.0.0'
   numerus: '>=1.1.1 <2.0.0'
 
@@ -94,8 +94,8 @@ flutter:
   assets:
     - assets/fonts/
     - assets/images/
-    - assets/videos/
-    - assets/audios/
+#     - assets/videos/
+#     - assets/audios/
     - assets/lottie_animations/
     - assets/rive_animations/
     - assets/pdfs/
