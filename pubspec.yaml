@@ -41,7 +41,7 @@ dependencies:
   flutter_google_places: 0.3.0
   font_awesome_flutter: 10.1.0
   google_api_headers:
-  google_fonts: 2.2.0
+  google_fonts: ^3.0.0
   google_maps_flutter: 2.1.1
   google_maps_webservice:
   internet_file: 1.0.0+2
